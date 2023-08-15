@@ -5,7 +5,7 @@ This is the Not official Remaster, Flans Rebirth
 ## Installation
 Its .jar of Mod, Not Java File!
 
-Put Release .jar File - Beta .jar File into the "mods" Folder, and when you load Minecraft, in "mods" Folder spawn "Flan" Folder and in that folder you need to put Content - Packs, Installation Complete!
+Put Release .jar File - Beta .jar File into the "mods" Folder, and when you load Minecraft, in "mods" Folder been spawned "Flan" Folder and in that folder you need to put Content - Packs, Installation Complete!
 ## Issues
 
 If you encounter any issues while using Flan's Rebirth, 
