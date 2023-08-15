@@ -8,7 +8,7 @@ Its .jar of Mod, Not Java File!
 Put Release .jar File - Beta .jar File into the "mods" Folder, and when you load Minecraft, in "mods" Folder been spawned "Flan" Folder and in that folder you need to put Content - Packs, Installation Complete!
 ## Issues
 
-If you encounter any issues while using Flan's Rebirth, 
+If you encounter any issues while using Flan's Rebirth, speak it into issues.
 ## Development
 If you want to help me to make fix bugs faster, make new updates, feel free to contribute!
 
