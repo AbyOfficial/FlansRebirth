@@ -10,10 +10,7 @@ Put Release .jar File - Beta .jar File into the "mods" Folder, and when you load
 
 If you encounter any issues while using Flan's Rebirth, 
 ## Development
-
-If you want to contribute to this project, feel free to pitch in and submit a pull request. If you plan larger changes, please talk first to other contributers as there might be hidden problems.
-
-Instructions on how to build FlansMod are below
+If you want to help me to make fix bugs faster, make new updates, feel free to contribute!
 
 ### Building
 1. Download/clone this repository
